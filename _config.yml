@@ -1,0 +1,14 @@
+layout_spectrum: 0.3735699919052422
+typography_spectrum: 0.594656395027414
+color:
+  brandStrength: 0.6471157853957266
+  lightness: 0.5566341509111226
+  saturation: 0.1333891204558313
+  rhythmicContrast: 0.9418119287583977
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: MadTravlr
